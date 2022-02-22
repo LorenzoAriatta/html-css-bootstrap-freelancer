@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 .bg-blue-LA {
@@ -18,4 +19,16 @@ header {
 }
 .bars {
   border: 1px solid white;
+}
+#avatar {
+  width: 300px;
+}
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
+}
+.line-LA {
+  height: 5px;
+  border-radius: 5px;
+  background-color: white;
 }
