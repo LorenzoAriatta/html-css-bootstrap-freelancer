@@ -27,8 +27,16 @@ h1 {
   font-size: 4rem;
   font-weight: bold;
 }
-.line-LA {
+.lines-white-LA {
   height: 5px;
   border-radius: 5px;
   background-color: white;
+}
+.lines-black-LA {
+  height: 5px;
+  border-radius: 5px;
+  background-color: black;
+}
+.border-radius-img-LA {
+  border-radius: 5%;
 }
